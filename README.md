@@ -8,16 +8,16 @@ This repository serves as a centralized hub for programming books, ensuring that
 **Languages**
 The repository contains books for multiple programming languages, including but not limited to:
 
-C/C
-Java
-Python
-JavaScript
-Ruby
-PHP
-Swift
-Go
-Rust
-Kotlin
+- C/C
+- Java
+- Python
+- JavaScript
+- Ruby
+- PHP
+- Swift
+- Go
+- Rust
+- Kotlin
 and many more!
 Each programming language has its dedicated directory within the repository. Inside each directory, you will find a curated list of books in various formats such as PDF, EPUB, or online resources, along with a brief description of each book's content and relevance.
 
@@ -36,13 +36,13 @@ Use the following template to add a book:
 
 markdown
 Copy code
-### [Book Title](Link to Book)
+### ###[Book Title](Link to Book)###
 
-Description of the book.
+`Description of the book.
 
 - Author: Name of the author(s)
 - Format: Format(s) of the book (e.g., PDF, EPUB)
-- License: License of the book (if applicable)
+- License: License of the book (if applicable)`
 Commit your changes and push them to your forked repository.
 
 Submit a pull request, clearly describing the book and its significance.
